@@ -1,0 +1,4 @@
+org/wso2/carbon/sample/user/operation/event/listener/CustomIdentityMgtEventListener.class
+org/wso2/carbon/sample/user/operation/event/listener/CustomIdentityMgtConfig.class
+org/wso2/carbon/sample/user/operation/event/listener/DataHolder.class
+org/wso2/carbon/sample/user/operation/event/listener/internal/CustomUserOperationEventListenerDSComponent.class

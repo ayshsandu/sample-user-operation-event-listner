@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Export-Package: org.wso2.carbon.sample.user.operation.event.listener;u
+ ses:="org.apache.commons.logging";version="1.0.0"
+Service-Component: OSGI-INF/serviceComponents.xml
+Built-By: ayesha
+Tool: Bnd-1.43.0
+Bundle-Name: org.wso2.carbon.sample.user.operation.event.listener
+Created-By: Apache Maven Bundle Plugin
+DynamicImport-Package: *
+Build-Jdk: 1.7.0_80-ea
+Bundle-Version: 1.0.0
+Bnd-LastModified: 1505896099545
+Bundle-ManifestVersion: 2
+Import-Package: org.apache.commons.logging;version="1.0.4"
+Bundle-SymbolicName: org.wso2.carbon.sample.user.operation.event.liste
+ ner
+
